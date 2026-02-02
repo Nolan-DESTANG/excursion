@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+/*main title: Discover hidden places in the world around you*/
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+/*subtitles*/
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
